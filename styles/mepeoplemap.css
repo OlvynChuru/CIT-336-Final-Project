@@ -1,0 +1,55 @@
+#me_title {
+	color: 316e9e;
+	display: block;
+#	position: relative;
+#	height: 100%;
+#	width: 100%;
+#	padding-right: -10%;
+	float: center;
+	text-align: center;
+}
+
+#me_country_info {
+	display: inline;
+#	position: relative;
+#	height: 100%;
+#	width: 100%;
+#	padding-right: -10%;
+	float: left;
+}
+
+#me_map {
+    background-color: 81befe;
+	display: inline;
+#	position: relative;
+#	height: 100%;
+#	width: 100%;
+	padding-right: -10%;
+	float: right;
+}
+#me_map_shade_left {
+    background-color: 000000;
+	display: inline;
+#	position: relative;
+#	height: 100%;
+#	width: 10%;
+	z-index: 5;
+	float: left;
+}
+#me_map_background {
+    background-color: 81befe;
+#	display: inline;
+#	position: relative;
+#	height: 100%;
+#	width: 100%;
+#	float: center;
+}
+#me_people_map_map {
+    background-color: 81befe;
+	display: inline;
+#	position: relative;
+#	height: 100%;
+#	width: 90%;
+	padding-right: -10%;
+	float: right;
+}
